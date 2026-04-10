@@ -43,7 +43,7 @@ num_chunks = ceil (10000 - 50) / (500-50)
 > *Viết 1-2 câu:*
 num_chunks_new = ceil((10000 - 100) / (500 - 100)) = ceil(9900 / 400) = ceil(24.75) = **25 chunks** 
 
-` tăng thêm 2 chunk so với overlap=50. Overlap lớn hơn giúp bảo toàn ngữ cảnh tại ranh giới giữa các chunk, tránh trường hợp một câu quan trọng bị cắt đứt.`
+#### tăng thêm 2 chunk so với overlap=50. Overlap lớn hơn giúp bảo toàn ngữ cảnh tại ranh giới giữa các chunk, tránh trường hợp một câu quan trọng bị cắt đứt.
 ---
 
 ## 2. Document Selection — Nhóm (10 điểm)
