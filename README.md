@@ -1,5 +1,5 @@
 # Ngày 7 — Nền Tảng Dữ Liệu: Embedding & Vector Store
-
+# 2A202600194-NguyenPhuongNam
 ---
 
 ## Mục Tiêu
